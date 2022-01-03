@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://pasar-kembang.github.io/sitemap.xml
